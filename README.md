@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshleyE113! I'm currently a sophomore at New York University who is studying game design!
-- 👀 I’m interested in stories, meterology, and fighting.
+- 👀 I’m interested in stories, games, TV shows, meterology, and fighting!
 - 💞️ I’m looking to collaborate on any type of game! I'm not picky!
 - 📫 Reach me at ase330@nyu.edu !
 
