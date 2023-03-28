@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @AshleyE113! I'm currently a sophomore at New York University who is studying game design!
-- 👀 I’m interested in stories, games, TV shows, meterology, and fighting!
-- 💞️ I’m looking to collaborate on any type of game! I'm not picky!
-- 📫 Reach me at ase330@nyu.edu !
+👋 Hi, I’m @AshleyE113! I'm currently a Game and Interactive Designer at NYU, who specializes in design and programming!
+
+ While I specialize in C# due to being a Unity developer, I have made games in Java, Python, HTML, and even PowerPoint!
+ 
+ Feel free to browse my repos! Here are an extra project that is also on GitHub: https://github.com/nerdiefighter/CASSETTE
+
+
+- 📫 Check out my portfolio if you can at https://ase330.myportfolio.com/!
 
 <!---
 AshleyE113/AshleyE113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
