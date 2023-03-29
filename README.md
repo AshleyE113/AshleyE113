@@ -2,7 +2,7 @@
 
  While I specialize in C# due to being a Unity developer, I have made games in Java, Python, HTML, and even PowerPoint!
  
- Feel free to browse my repos! Here are an extra project that is also on GitHub: https://github.com/nerdiefighter/CASSETTE
+ Feel free to browse my repos! I'm currently working on another project named "Report on the Death of Robert Evergreen." Here is the repo to the project that is also on GitHub: https://github.com/nerdiefighter/CASSETTE
 
 
 - 📫 Check out my portfolio if you can at https://ase330.myportfolio.com/!
